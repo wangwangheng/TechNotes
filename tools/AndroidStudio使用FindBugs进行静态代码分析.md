@@ -105,6 +105,10 @@ FindBugs是你的代码质量的第一道防线。
 
 * Gradle FindBugs Plugin [https://gradle.org/docs/current/userguide/findbugs_plugin.html](https://gradle.org/docs/current/userguide/findbugs_plugin.html)
 
+* FindBugs Bug列表:[http://findbugs.sourceforge.net/bugDescriptions.html#BC_EQUALS_METHOD_SHOULD_WORK_FOR_ALL_OBJECTS](http://findbugs.sourceforge.net/bugDescriptions.html#BC_EQUALS_METHOD_SHOULD_WORK_FOR_ALL_OBJECTS)
+
+*  FindBugs 过滤设置:[http://findbugs.sourceforge.net/manual/filter.html](http://findbugs.sourceforge.net/manual/filter.html)
+
 
 
 
